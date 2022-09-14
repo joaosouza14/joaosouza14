@@ -3,7 +3,7 @@
 - 🔭 Hoje estou a procura do meu primeiro emprego como programador
 - 👨‍🎓 Sou formado em Análise e Desenvolvimento de Sistemas
 - 👨‍💻 Tenho conhecimento em C# ASP.NET, Entity Framework, MVC, API e noções em banco de dados
-- 🌱 Estou estudando Front-End e com o Frameowork Angular
+- 🌱 Estou estudando Front-End e com o Frameowork React
 
 ##
 
