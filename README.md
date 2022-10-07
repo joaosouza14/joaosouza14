@@ -1,9 +1,10 @@
-### Olá! Eu sou o João Souza
+### Olá! Bem vindo ao meu GitHub!
 
-- 🔭 Hoje estou a procura do meu primeiro emprego como programador
+#### Eu sou o João e estas são algumas informações minhas na área profissional:
+- 🔭 Hoje estou a procura do meu primeiro emprego como programador, buscando aplicar tudo o que venho aprendendo e praticando
 - 👨‍🎓 Sou formado em Análise e Desenvolvimento de Sistemas
-- 👨‍💻 Tenho conhecimento em C# ASP.NET, Entity Framework, MVC, API e noções em banco de dados
-- 🌱 Estou estudando Front-End e com o Frameowork React
+- 👨‍💻 Tenho conhecimento em Orientação a Objetos e nas tecnologias C#, HTML, CSS, JavaScript, ASP.NET, Entity Framework, API
+- 🌱 Estou estudando hoje para me qualificar como Desenvolvedor Full-Stack
 
 ##
 
