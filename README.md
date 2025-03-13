@@ -1,12 +1,12 @@
 ### Oi 🖐, eu sou o João!
-#### Desenvolvedor FrontEnd
+#### Desenvolvedor Mobile & Web
 
-- 🔭 No momento atuo como freelancer
-- 👨‍🎓 Sou formado em Análise e Desenvolvimento de Sistemas
-- 👨‍💻 Minha especialidade: React, HTML, CSS, JavaScript (ES6), Bootstrap.
-- 🌱 Tenho também alguns conhecimentos em C#, ASP.Net, Entity Framework e SQL.
+- 🔭 No momento sou estudante em busca do desenvolvimento pessoal
+- 👨‍🎓 Sou formado em Análise e Desenvolvimento de Sistemas e estou cursando Pós-graduação em Desenvolvimento Mobile
+- 👨‍💻 Minha especialidade: React.Js & Native, HTML, CSS, JavaScript (ES6), Node.js, Next.js Bootstrap, Tailwind
+- 🌱 Tenho também alguns conhecimentos em C#, ASP.Net, SQL, atualmente estudnando um pouco de Flutter e integrações com IA
 - 📫 Fale comigo em jvcsf14@gmail.com
-- 😁 Saiba mais sobre mim e os projetos que ando fazendo: www.linkedin.com/in/joaosouza14/
+- 😁 Saiba mais sobre mim e os projetos que ando fazendo: www.linkedin.com/in/joaosouza14/ ou aqui mesmo no GitHub
 
 ##
 
