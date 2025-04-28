@@ -4,7 +4,7 @@
 - 🔭 No momento sou estudante em busca do desenvolvimento pessoal
 - 👨‍🎓 Sou formado em Análise e Desenvolvimento de Sistemas e estou cursando Pós-graduação em Desenvolvimento Mobile
 - 👨‍💻 Minha especialidade: React.Js & Native, HTML, CSS, JavaScript (ES6), Node.js, Next.js Bootstrap, Tailwind
-- 🌱 Tenho também alguns conhecimentos em C#, ASP.Net, SQL, atualmente estudnando um pouco de Flutter e integrações com IA
+- 🌱 Tenho também alguns conhecimentos em C#, ASP.Net, SQL, Flutter e integrações com IA
 - 📫 Fale comigo em jvcsf14@gmail.com
 - 😁 Saiba mais sobre mim e os projetos que ando fazendo: www.linkedin.com/in/joaosouza14/ ou aqui mesmo no GitHub
 
@@ -25,10 +25,8 @@
   <img align="center" alt="Joao-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Joao-Bootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg">
   <img align="center" alt="Joao-Tailwind" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg">
-  <img align="center" alt="Joao-Nest" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg">
   <img align="center" alt="Joao-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg">
   <img align="center" alt="Joao-Flutter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg">
-  <img align="center" alt="Joao-Firebase" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg">
   <img align="center" alt="Joao-Android" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-original.svg">
 </div>
 
